@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name        Ad Block
+// @description This is your new file, start writing code
+// @author       luanche
+// @license MIT
+// @match       https://91porn.com/*
+// @run-at document-start
+// @grant        none
+// ==/UserScript==
+
 function addNewStyle(newStyle) {
     var styleElement = document.getElementById('styles_js');
 
@@ -10,4 +20,4 @@ function addNewStyle(newStyle) {
     styleElement.appendChild(document.createTextNode(newStyle))
 }
 
-addNewStyle('.ad_img {display: none;}')
+addNewStyle('display: none !important;')
