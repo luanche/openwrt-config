@@ -1,9 +1,0 @@
-/* ==UserScript==
-@name        AD Block
-@description This is an example of a UserStyle. It applies css to webpages rather than js.
-@match       https://91porn.com/*
-==/UserScript== */
-
-.ad_img {
-    display: none !important;
-}
