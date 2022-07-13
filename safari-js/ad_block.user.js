@@ -8,16 +8,24 @@
 // @grant        none
 // ==/UserScript==
 
-function addNewStyle(newStyle) {
-    var styleElement = document.getElementById('styles_js');
+function adsRemove_Auto() {
+    var i;
+    setTimeout(() => {
+        var ads_host_css = ".ad_img";
+        var huge = document.querySelectorAll(ads_host_css);
+        for (i = 0; i < huge.length; i++) {
+            huge[i].remove();
+        }
+    }, 500);
 
-    if(!styleElement){
-        styleElement = document.createElement('style');
-        styleElement.type = 'text/css';
-        styleElement.id = 'styles_js';
-        document.getElementsByTagName('head')[0].appendChild(styleElement);
+    timecount += 1;
+    console.log("循环第" + timecount + "次")
+    if (timecount === 1) {
+        clearInterval(id);
+        console.log("循环结束！")
     }
-    styleElement.appendChild(document.createTextNode(newStyle))
 }
 
-addNewStyle('display: none !important;')
+adsRemove_Auto();
+var timecount = 0;
+var id = setInterval(adsRemove_Auto, 1000);
