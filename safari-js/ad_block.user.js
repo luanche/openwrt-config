@@ -5,6 +5,7 @@
 // @license MIT
 // @match       https://91porn.com/*
 // @run-at document-end
+// @updateURL     https://raw.githubusercontent.com/luanche/openwrt-config/main/safari-js/ad_block.user.js
 // @grant        none
 // ==/UserScript==
 

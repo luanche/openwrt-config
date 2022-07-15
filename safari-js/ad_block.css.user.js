@@ -4,6 +4,7 @@
 // @author        luanche
 // @match         https://91porn.com/*
 // @run-at        document-start
+// @updateURL     https://raw.githubusercontent.com/luanche/openwrt-config/main/safari-js/ad_block.css.user.js
 // ==/UserScript==
 
 (function() {var css = [
