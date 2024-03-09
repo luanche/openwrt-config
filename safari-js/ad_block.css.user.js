@@ -2,10 +2,12 @@
 // @name          Ad block css
 // @description	  Block ad by css
 // @author        luanche
+// @namespace     https://91porn.com/
 // @match         https://91porn.com/*
 // @run-at        document-start
 // @updateURL     https://raw.githubusercontent.com/luanche/openwrt-config/main/safari-js/ad_block.css.user.js
 // @version       1.0
+// @grant         none
 // ==/UserScript==
 
 (function() {var css = [

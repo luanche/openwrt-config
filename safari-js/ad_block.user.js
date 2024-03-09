@@ -2,7 +2,7 @@
 // @name          Ad Block
 // @description   This is your new file, start writing code
 // @author        luanche
-// @license       MIT
+// @namespace     https://91porn.com/
 // @match         https://91porn.com/*
 // @run-at        document-end
 // @updateURL     https://raw.githubusercontent.com/luanche/openwrt-config/main/safari-js/ad_block.user.js
