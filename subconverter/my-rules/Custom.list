@@ -5,3 +5,8 @@ DOMAIN-KEYWORD,jike
 
 # vercel
 DOMAIN-KEYWORD,vercel
+
+# obs
+DOMAIN,obsproject.com
+DOMAIN-SUFFIX,obsproject.com
+DOMAIN-KEYWORD,obsproject
