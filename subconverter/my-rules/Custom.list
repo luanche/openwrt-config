@@ -14,3 +14,8 @@ DOMAIN-KEYWORD,obsproject
 # 91
 DOMAIN-KEYWORD,91p
 DOMAIN-KEYWORD,killcovid
+
+# byg
+DOMAIN-KEYWORD,bygcloud
+DOMAIN,bygcloud.com
+DOMAIN-SUFFIX,bygcloud.com
