@@ -19,3 +19,7 @@ DOMAIN-KEYWORD,killcovid
 DOMAIN-KEYWORD,bygcloud
 DOMAIN,bygcloud.com
 DOMAIN-SUFFIX,bygcloud.com
+
+# python
+DOMAIN-KEYWORD,pypi
+DOMAIN-KEYWORD,python
