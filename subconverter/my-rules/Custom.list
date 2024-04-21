@@ -23,3 +23,12 @@ DOMAIN-SUFFIX,bygcloud.com
 # python
 DOMAIN-KEYWORD,pypi
 DOMAIN-KEYWORD,python
+
+# trakt
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-KEYWORD,trakt
+
+# tmdb
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-KEYWORD,tmdb
