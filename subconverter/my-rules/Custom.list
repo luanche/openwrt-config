@@ -24,8 +24,6 @@ DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-KEYWORD,pypi
 DOMAIN-KEYWORD,python
 
-
 # weblate
-DOMAIN-KEYWORD,weblate
-DOMAIN,weblate.cloud
-DOMAIN-SUFFIX,weblate.cloud
+DOMAIN,kodi.weblate.cloud
+DOMAIN-SUFFIX,kodi.weblate.cloud
