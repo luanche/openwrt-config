@@ -28,3 +28,8 @@ DOMAIN-KEYWORD,python
 # weblate
 DOMAIN,kodi.weblate.cloud
 DOMAIN-SUFFIX,kodi.weblate.cloud
+
+# Z-Library
+DOMAIN-KEYWORD,zlibrary
+DOMAIN-KEYWORD,z-lib
+DOMAIN-KEYWORD,z-library
